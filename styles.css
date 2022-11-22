@@ -44,20 +44,20 @@ nav li {
     list-style: none;
 }
 
-a {
+nav a {
     display: block;
     padding: 16px;
-    padding-top: 8px;
-    padding-bottom: 8px;
-    padding-left: auto;
-    padding-right: auto;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    margin-left: auto;
+    margin-right: auto;
     background-color: #e0e5de;
     color: #141a1a;
     text-decoration: none;
     font-weight: bold;
 }
 
-a:hover {
+nav a:hover {
     background-color: #f28095;
 }
 
